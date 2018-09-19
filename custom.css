@@ -1,0 +1,105 @@
+#es_txt_button {
+    background-color: #256bc4 !important;
+    border: none !important;
+    border-radius: 50px !important;
+    color: #fff !important;
+    padding: 12px 24px 11px !important;
+    font-size: 14px !important;
+    font-weight: 700px !important;
+    letter-spacing: 0 !important;
+    text-transform: uppercase;
+}  
+.es_button {
+	padding-top: 0px !important;
+}
+.es_textbox {
+    padding-bottom: 10px;
+    width: 45% !important;
+    float: left !important;
+}
+.widget-title {
+    color: #494949 !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    margin: 0 0 16px !important;
+}
+.es_widget_form_email {
+    display: none;
+}
+input#depositfund {float: left; width: auto; }
+.wcppec-checkout-buttons__separator {
+    display: none;
+}
+a#woo_pp_ec_button {
+    display: none;
+}
+div#breakdown-yearlyundefined {
+    display: none !important;
+}
+.info-point {
+    display: none;
+}
+#funds .learn-more-about-payment img {
+    display: block;
+    height: 40px;
+    margin: 15px 0;
+}
+.alert {
+    margin-bottom: 0px !important;
+}
+
+.button.back{
+
+    background: transparent none repeat scroll 0 0 !important;
+    border: 1px solid #000 !important;
+    color: #000 !important;
+    width:25% !important;
+    padding:10px !important;
+}
+.order-listing > li.active{
+    width:100% !important;
+}
+.percent-input::after{
+ padding: 0 9px 0 0 !important;
+}
+.percent-input #slider_value {border: 1px solid #ccc; display: inline-block; padding: 8px 23px 8px 8px; position: relative; width: 70px; }
+
+.highcharts-credits {
+    display: none;
+}
+.highcharts-background {
+    width: 100% !important;
+}
+/*
+.wpdberror {
+    display: none;
+}*/
+
+.misha_loadmore{
+    background-color: #ddd;
+    border-radius: 2px;
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing:1px;
+    cursor:pointer;
+    text-transform: uppercase;
+    padding: 10px 0;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.3s ease-in-out;  
+}
+.misha_loadmore:hover{
+    background-color: #767676;
+    color: #fff;
+}
+
+
+a#inifiniteLoader{
+    position: fixed;  
+    z-index: 2;  
+    bottom: 15px;   
+    right: 10px; 
+    display:none;
+}

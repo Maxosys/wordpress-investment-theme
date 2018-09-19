@@ -1,0 +1,321 @@
+@media (min-width: 200px) and (max-width: 700px){
+.footer-logo > img {width: 100%; }
+.footer-logo {float: left; margin-bottom: 3px; width: 100%; }
+.footer .col-sm-4 , .footer .col-sm-2 {float: left; width: 100%; }
+.footer a {font-size: 13px; }
+.footer h3 {font-size: 15px; margin: 16px 0; }
+.input-group-btn {right: 0; }
+.input-group-addon, .input-group-btn, .input-group .form-control {display: inline; }
+.footer .btn.btn-theme {float: right; margin-top: 11px; }
+.bottom-footer , .copyright {text-align: left; display: inline-block; width: 100%}
+.feessection {padding: 18px; }
+.feessection > h3 {font-size: 25px; }
+.button {font-size: 13px; margin-bottom: 13px; padding: 15px 20px; text-align: center; width: 100%; }
+.portfoilo {padding: 29px 25px; }
+.portfoilo h3 {font-size: 27px; }
+.default-head__button-container {margin-top: 24px; }
+.portfoilo .button {margin-bottom: 14px; text-align: center; width: 100%; }
+.shadow::before{display: none}
+.main-heading h3 {font-size: 27px; }
+.media-blog , .how-it-works , .about {padding: 50px 0; }
+.posts, .viwes {float: none; text-align: center; width: 100%; }
+.media-box {margin-bottom: 30px; }
+.fees .col-no-padding {padding: 0 15px !important; }
+.client-name {float: right; }
+.testimonial .title {font-size: 16px; }
+.testimonial .post {font-size: 12px; }
+.icon {text-align: center; }
+.text {float: left; left: 0; position: absolute; right: 0; text-align: center; top: 0; width: 100%; }
+.circle {display: inline-block; float: none; margin-right: 0; }
+.icon {margin-bottom: 105px; position: relative; text-align: center; top: 85px; }
+.icon > img {margin-top: 22px; }
+.prpertyimg , .desc > br , .about-img , .bg::before , .col-sm-6.text-right{display: none}
+.choose .desc {margin: 15px 0 30px;  font-size: 13px; }
+.choose{padding-bottom: 50px}
+.desc {float: left; margin: 0; width: 100%; }
+.about h3, .portfoilo h3 , .properties h3 {font-size: 25px; }
+#first-slider .slide1 h3, #first-slider .slide2 h3, #first-slider .slide3 h3, #first-slider .slide4 h3 {font-size: 24px; line-height: 31px; text-align: center; }
+#first-slider p {font-size: 14px; line-height: 22px; text-align: center; }
+#first-slider {padding: 16px 0 36px }
+.left.carousel-control , .right.carousel-control {display: none}
+.hide{display: block !important}
+.carousel-indicators {bottom: -35px; }
+.navbar-brand > img {max-width: 203px; }
+.live-stats .container {padding: 0; width: 100%; }
+.expanded .col-sm-6 {border-top: 1px solid #97b6e9; width: 100%; }
+.simple-marquee-container { margin-top: 0px; width: 62%; }
+.marquee-content-items li {width: 100%; }
+.live-stats .latest-stats {float: right; width: 100%; }
+.latest-stat {width: 48.8%; }
+.navbar-inverse .navbar-toggle , .navbar-inverse .navbar-toggle:hover , .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {background: #437bd2 none repeat scroll 0 0; border-color: #437bd2; margin-right: 0; margin-top: 13px; }
+#navbar-collapse-4 {float: none; margin: 9px 0 30px; padding: 0; }
+.nav li a { padding: 15px 0 0 !important; }
+.dropdown .dropdown-menu li a {padding-top: 0 !important; }
+.dropdown i {float: right; }
+.about p {margin-bottom: 18px;}
+.marquee, [class^="marquee"] {margin-left: 29px; white-space: inherit; width: 100%; word-wrap: break-word; }
+.latest-transactions__trade, .latest-transactions__trade a, .latest-transactions__time-ago {font-size: 10px; }
+.latest-transactions__title {font-size: 9px; margin-top: 11px; }
+.close-popup {z-index: 99999; }
+.popup {z-index: 9999999;   }
+.modal__wrap {max-width: 100%; padding: 0 30px; text-align: center; margin-top: 42px; }
+.create-account h2 {font-size: 21px; }
+.create-account-img > img {max-width: 65px; }
+.popup .close, .popup .close:hover {height: 35px; line-height: 35px; width: 35px; }
+.popup .form-group {float: left; width: 100%; }
+.radio, .checkbox {margin-top: 0; }
+#register-form input {margin-bottom: 0; }
+.lostLink, .lostLink:hover{font-size: 10px;}
+#create_customer input, #customer_login input {margin-bottom: 0; }
+.create-account-img{display: none}
+.panels {padding-top: 0; }
+.link {font-size: 13px; margin-top: 15px; float: left; }
+.title-heading{display: inherit;}
+.dashboard , .property{padding: 50px 0}
+.dashboard .transaction td {font-size: 12px; padding: 7px 6px !important; }
+.table-responsive {display: inline-block;  }
+.texts {display: flex; font-size: 11px; }
+.available-price {font-size: 13px; }
+.viewing-properties {margin-top: 0; text-align: center; width: 100%; margin-bottom: 17px; }
+.filter-panel .form-group {margin-right: 0; }
+.filter-panel{width: 100%}
+.form-group span {top: 37px; }
+.info{border:none !important;}
+.value {font-size: 14px; }
+.property-card .button {width: auto; }
+.property-name  {padding: 11px; }
+.properties-info{padding: 0 15px}
+.tabbable-line .nav a i {color: #4a4a4a !important; font-size: 24px; text-align: center; }
+.tabbable-line > .nav-tabs > li {margin-right: 0; text-align: center; width: 25%; }
+.tabbable-line > .nav-tabs > li.active i {color: #256AC2 !important; }
+.property-hero .owl-theme .owl-controls {margin-top: 11px !important; }
+.Cashflow .box , .box , .box.panel-acquisition-costs {min-height: auto; }
+.yield {float: left; margin-top: 20px; width: 100%; }
+.blue-box .box-financials .gray-box {margin-bottom: 10px; text-align: center; }
+.metrics .financials-panel-row__title.financials-panel__text.financials-panel-row__title--no-icon {font-size: 14px; }
+.box .order-listing li a {font-size: 10px !important; padding: 11px 12px !important; }
+.value.basis-price, .value.purchase-proposal-total {float: right; text-align: right; }
+.white-box {float: left; width: 100%; }
+.white-box.quantity, .white-box > div {float: left;  }
+.white-boxes-container .col-inline {border-bottom: 1px solid #ccc; float: left; padding: 11px 0; width: 100%; }
+#id_buy_quantity {float: right; width: 50%; }
+.settings-blue-notification {margin: 11px 0;  padding: 10px; }
+.settings-blue-notification .col-info-description {font-size: 11px; line-height: 18px; }
+.payment-option.poli-option , .payment-option.poli-option-learn-more{border:none;}
+.payment-options {float: left; margin-top: 30px; width: 100%; }
+.learn-more-about-payment > img {margin-top: 12px; max-width: 70px; }
+.head.text-center {font-size: 20px; padding: 12px 0; }
+.perosnal-details .dollar-input::before {padding: 12px 19px; right: 4px; }
+.board-text {display: none; }
+#myTab {padding: 0; }
+.input-label {margin-bottom: 6px; margin-top: 12px; }
+.perosnal-details .row , .perosnal-details .settings-blue-notification   {float: left; width: 100%; }
+.perosnal-details .col-md-7, .perosnal-details .col-md-5{float: left;}
+.perosnal-details .tick {float: right; margin-right: -11px; }
+.date-of-birth-fieldset .select-box {margin-bottom: 13px; margin-right: 0px; width: 100%; }
+.perosnal-details {padding: 25px 17px;}
+.thnkyou-text > h3 {font-size: 26px; line-height: 34px; }
+.thnkyou-text {padding: 9px 0; }
+.thnkyou-text > p {font-size: 16px; }
+.valuebox{border-right-color: transparent !important;}
+.portfoilio .button {float: left; }
+.des br {display: none; }
+.calc .perosnal-details {display: inline-block; }
+.slider-container .irs-bar {bottom: -10px;}
+.slider-container .irs-slider {top: -17px; }
+.return-calculator-returns-info__estimated-return .value {line-height: 17px; margin-top: 22px;   font-size: 28px; }
+.calc #contain {max-width: 100% !important; width: 100% !important; }
+.calc .col-info-description {display: table; text-align: center; width: 100%; }
+.filterss {padding: 15px 0; }
+.slider-container .irs-single {top: -39px; }
+.calc .col-info-icon {text-align: center; width: 100%; }
+.initailprice .step .turns img {width: 67px; }
+.table-property-explanation .line{text-align: right;}
+.call-to-action .button.orange-button {float: left; }
+.start-property-portfolio .step {float: left; margin-top: 27px; }
+.return-calculator-results-overview__estimated-return-rate {height: 20px; }
+#portfolio .highcharts-container {width: 261px !important; }
+.bottomsection .description {max-width: 100%; margin-bottom: 20px }
+.right-inner-addon {margin-top: 40px; }
+.bloglist {float: left; width: 100%; }
+.post-title {font-size: 24px; margin-bottom: 0 }
+.dropdown-menu.user-account-menu.simple {float: left; width: 100%; }
+.return-calculator-results-overview__left {border-bottom: 1px solid #999; border-right: 0 none; width: 100%; }
+.return-calculator-results-overview {flex-direction: column; padding: 10px 0; }
+.return-calculator-results-overview__right{width: 100%;   margin-top: 30px;}
+.footer__social-block{margin-top: 0}
+.menu-footer-company-container {float: left; margin-bottom: 25px; width: 100%; }
+.shrink {top: 0; }
+#containerHigh {min-width: 100% !important; width: 100% !important; }
+.row.depost-fnd {display: table-row; float: none; width: auto; }
+.initailprice .step {float: left; margin-bottom: 30px; text-align: center; width: 100%; }
+.how-do-i-make-money {padding: 80px 0 0; }
+.how-do-i-make-money .step {float: left; width: 100%; }
+.call-to-action {padding: 50px 0; }
+.property-hover .debt {align-items: center; display: flex; left: 0; text-align: left; top: 0; width: 62%; }
+.debt li div {text-align: left; }
+.property-card .lowest-available-price-box {display: flex; justify-content: space-between;  }
+.property-card table {display: inline-table !important; }
+
+
+
+
+}
+
+
+@media (min-width: 705px) and (max-width: 980px){
+
+.input-group-btn {right: 0; }
+.input-group-addon, .input-group-btn, .input-group .form-control {display: inline; }
+.footer .btn.btn-theme {float: right; margin-top: 11px; }
+.footer h3 {font-size: 13px; }
+.footer-logo > img { width: 100%; }
+.footer a  , .footer-links a{font-size: 14px; }	
+.desc {float: left; margin: 0; }
+.about h3{font-size: 24px; }
+.feessection , .portfoilo{min-height: 526px;}
+.portfoilo {padding: 137px 25px; }
+.button{font-size: 14px ;   margin: 0 8px 0 0; padding: 13px 19px;}
+ .portfoilo h3 {font-size: 35px; }
+ .media-desc , .posts {padding: 15px; }
+.author , .viwes {font-size: 12px; }
+.titles {font-size: 14px; line-height: 20px; }
+.sub-title {font-size: 15px; margin-top: 17px; }
+.circle{float: none}
+.properties h3 {font-size: 30px; }
+.default-head__button-container {margin-top: 24px; }
+.properties .col-sm-5, .properties .col-sm-7 {width: 50%; }
+.properties .button {font-size: 12px; }
+.choose h4 {font-size: 18px; }
+.choose .desc {font-size: 14px; } 
+.desc br{display: none}
+.nav li a {font-size: 13px; padding: 19px 8px !important; }
+.navbar-brand > img {margin-top: 6px; max-width: 187px; }
+.dropdown-menu {margin-top: 0 !important; }
+.dropdown-menu li a {line-height: 0 !important; }
+.banner .col-md-6 {width: 50%; }
+#first-slider .slide1 h3, #first-slider .slide2 h3, #first-slider .slide3 h3, #first-slider .slide4 h3 {font-size: 24px; line-height: 34px; }
+#first-slider p {font-size: 14px; line-height: 23px; margin-top: 13px; }
+.banner .button {font-size: 12px; margin: 0 5px 0 0; padding: 13px 12px; }
+.expanded .col-sm-6 {border-top: 1px solid #97b6e9; width: 100%; }
+.simple-marquee-container { margin-top: 8px; width: 75%; }
+#first-slider {padding: 35px 0; }
+.live-stats .container {padding: 0; width: 100%; }
+.about p {margin-bottom: 14px; }
+.left.carousel-control , .right.carousel-control {display: none}
+.hide{display: block !important}
+.carousel-indicators {bottom: -35px; }
+.box .button {font-size: 12px; margin-top: 20px; padding: 14px 23px; }
+.property-name  {padding: 11px; }
+.properties-info{padding: 0 15px}
+.property-nav .tabbable-line .nav-tabs li a{font-size: 14px}
+#tab_default_1 .box {min-height: auto; }
+.Cashflow .box {min-height: auto; }
+.col-right {text-align: right; }
+.blue-box {float: left; width: 50%; }
+.popupss td {padding: 6px 10px !important; }
+.payment-option.poli-option , .payment-option.poli-option-learn-more{border:none;}
+.payment-options {float: left; margin-top: 30px; width: 100%; }
+.learn-more-about-payment > img {margin-top: 12px; max-width: 70px; }
+.input-label {margin-bottom: 6px; margin-top: 12px; }
+.perosnal-details .row , .perosnal-details .settings-blue-notification {float: left; width: 100%; }
+.col-no-padding-left{padding-left: 15px !important}
+.thnkyou-text > h3 {font-size: 22px; line-height: 31px; }
+.thnkyou-text {padding: 52px 0; }
+.des br {display: none; }
+.slider-group.net-rent-yield-slider-group {float: left; }
+.filterss h3 {margin-top: 30px; }
+.slider-container .irs-bar {bottom: -3px; }
+.slider-container .irs-slider {top: -13px; }
+.main-heading br {display: none; }
+.table-property-explanation .line {font-size: 12px; line-height: 15px; padding: 0; text-align: right; }
+.initailprice .step .turns img {width: 54px; }
+.initailprice .step .turns .text {font-size: 14px; }
+.info {margin-bottom: 30px !important; }
+.valuebox { min-height: 447px !important;}
+.navbar-collapse {padding-left: 0 !important; padding-right: 0 !important; }
+.date-of-birth-fieldset .select-box {width: 32.4%; }
+.property-hover .debt {align-items: center; display: flex; left: 0; text-align: left; top: 0; width: 68%; }
+.filter-panel {float: left; margin-top: 15px; width: 100% }
+.debt li div {text-align: left; }
+
+
+
+
+}
+
+
+@media (min-width: 1000px) and (max-width: 1100px){
+.navbar-brand > img {max-width: 250px; }
+#navbar-collapse-4 {margin-top: 6px; }
+.dropdown-menu {margin-top: 3px !important; }
+.latest-stat .stat-info-box .stats-info-details .value-description .value {font-size: 14px; }
+.latest-stat .stat-info-box .stats-info-details .title {font-size: 10px; }
+.latest-stat {width: 32%; }
+.latest-stat .stat-info-box {padding: 13px 0 5px; }
+.stats-info-icon.text-left {margin: 0 7px; }
+.marquee, [class^="marquee"] {width: 90%; }
+#first-slider .slide1 h3, #first-slider .slide2 h3, #first-slider .slide3 h3, #first-slider .slide4 h3 {font-size: 34px; letter-spacing: 1px; line-height: 42px; }
+#first-slider p {font-size: 16px; line-height: 26px; margin-top: 18px; }
+.default-head__button-container {margin-top: 14px; }
+.button {font-size: 13px; margin: 0 14px 0 0; }
+.col-md-6.text-left {padding-left: 30px; }
+.left.carousel-control {left: -37px; }
+.right.carousel-control {right: -37px !important; }
+.carousel-control .fa-angle-left , .carousel-control .fa-angle-right {font-size: 24px; height: 40px; line-height: 40px; width: 40px; } 
+.about h3, .portfoilo h3 {font-size: 30px; width: 100%; }
+.desc {margin: 0 0 0 33px; }
+.desc > br {display: none; }
+.listing > li {line-height: 30px; }
+.properties .button {font-size: 13px; margin: 0 3px 0 0; }
+.sub-title {font-size: 15px; line-height: 19px; margin-top: 19px;  }
+.sep {background-size: 95px auto; right: -35px; }
+.step2 .sep {right: -42px; }
+.step3 .sep {right: -49px; }
+.media-desc , .posts {padding: 15px; }
+.author , .viwes {font-size: 12px; }
+.feessection , .portfoilo{min-height: 433px;}
+.portfoilo {padding: 136px 45px; }
+.portfoilo .default-head__button-container {margin-top: 40px; }
+.input-group-btn {right: 0; }
+.input-group-addon, .input-group-btn, .input-group .form-control {display: inline; }
+.footer .btn.btn-theme {float: right; margin-top: 11px; }
+.footer h3 {font-size: 16px; }
+.footer-logo > img { width: 100%; }
+.footer a  , .footer-links a{font-size: 14px; }
+.box .button {font-size: 11px; margin-top: 20px; padding: 14px 15px; }
+.texts {display: flex; font-size: 11px; }
+.available-price {font-size: 13px; }
+.lowest-available-price-box {font-size: 17px; }
+.box {padding: 23px 15px;  min-height: 422px; }
+.return-calculator-results-overview__estimated-return-rate {font-size: 13px; height: 20px; }
+.return-calculator-results-overview__estimated-return-annualised-rate {font-size: 12px; width: 77%; }
+.property-returns-calculator__title{font-size: 12px}
+.chartsection .box {min-height: 669px; }
+.grey-box.reasons-text li {font-size: 12px; }
+.box-financials-title {font-size: 13px; }
+.math-formula {margin-bottom: 17px; }
+.Cashflow .box {min-height: 446px; }
+.bold {font-size: 13px; }
+.metrics .financials-panel-row__title.financials-panel__text.financials-panel-row__title--no-icon {font-size: 15px; }
+.blue-box .box-financials-title , .col-left {font-size: 12px; }
+.col-xs-4.col-right {padding: 0; }
+.title-heading {font-size: 14px; }
+.box .order-listing li a {font-size: 10px !important; }
+.error {font-size: 14px; }
+.date-of-birth-fieldset .select-box {width: 31% }
+.valuebox {min-height: 414px !important; }
+.slider-container .irs-bar {bottom: 1px; }
+.slider-container .irs-slider {top: -11px; }
+.table-property-explanation .line{text-align: right;}
+#portfolio .highcharts-container {text-align: justify !important; }
+.nav li a {padding: 19px 10px !important; }
+.property-hover .debt {align-items: center; display: flex; left: 0; text-align: left; top: 0; width: 62%; }
+.debt li div {text-align: left; }
+.property-card .lowest-available-price-box {display: flex; justify-content: space-between;  }
+
+}
+
+
+
+
